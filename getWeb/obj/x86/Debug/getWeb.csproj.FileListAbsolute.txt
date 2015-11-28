@@ -1,0 +1,8 @@
+c:\users\jarvis\documents\visual studio 2010\Projects\getWeb\getWeb\bin\Debug\getWeb.exe
+c:\users\jarvis\documents\visual studio 2010\Projects\getWeb\getWeb\bin\Debug\getWeb.pdb
+c:\users\jarvis\documents\visual studio 2010\Projects\getWeb\getWeb\obj\x86\Debug\getWeb.Properties.Resources.resources
+c:\users\jarvis\documents\visual studio 2010\Projects\getWeb\getWeb\obj\x86\Debug\getWeb.csproj.GenerateResource.Cache
+c:\users\jarvis\documents\visual studio 2010\Projects\getWeb\getWeb\obj\x86\Debug\getWeb.exe
+c:\users\jarvis\documents\visual studio 2010\Projects\getWeb\getWeb\obj\x86\Debug\getWeb.pdb
+c:\users\jarvis\documents\visual studio 2010\Projects\getWeb\getWeb\obj\x86\Debug\getWeb.csprojResolveAssemblyReference.cache
+c:\users\jarvis\documents\visual studio 2010\Projects\getWeb\getWeb\obj\x86\Debug\getWeb.Form1.resources

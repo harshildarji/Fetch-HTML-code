@@ -6,3 +6,11 @@ c:\users\jarvis\documents\visual studio 2010\Projects\getWeb\getWeb\obj\x86\Debu
 c:\users\jarvis\documents\visual studio 2010\Projects\getWeb\getWeb\obj\x86\Debug\getWeb.pdb
 c:\users\jarvis\documents\visual studio 2010\Projects\getWeb\getWeb\obj\x86\Debug\getWeb.csprojResolveAssemblyReference.cache
 c:\users\jarvis\documents\visual studio 2010\Projects\getWeb\getWeb\obj\x86\Debug\getWeb.Form1.resources
+C:\Users\Jarvis\Fetch-HTML-code\getWeb\obj\x86\Debug\getWeb.exe
+C:\Users\Jarvis\Fetch-HTML-code\getWeb\obj\x86\Debug\getWeb.pdb
+C:\Users\Jarvis\Fetch-HTML-code\getWeb\bin\Debug\getWeb.exe
+C:\Users\Jarvis\Fetch-HTML-code\getWeb\bin\Debug\getWeb.pdb
+C:\Users\Jarvis\Fetch-HTML-code\getWeb\obj\x86\Debug\getWeb.csprojResolveAssemblyReference.cache
+C:\Users\Jarvis\Fetch-HTML-code\getWeb\obj\x86\Debug\getWeb.Form1.resources
+C:\Users\Jarvis\Fetch-HTML-code\getWeb\obj\x86\Debug\getWeb.Properties.Resources.resources
+C:\Users\Jarvis\Fetch-HTML-code\getWeb\obj\x86\Debug\getWeb.csproj.GenerateResource.Cache
